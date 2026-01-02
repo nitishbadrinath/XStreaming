@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Opensource Xbox Remote Client. 
+  Opensource Xbox Remote Client.  
 </p>
 
 **English** | [中文](./README.zh_CN.md)  
